@@ -1,0 +1,7 @@
+.text-bg {
+  background-image: url("./assets/fire.webp");
+  background-size: contain;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
